@@ -1,0 +1,408 @@
+{
+  "hotkeys": {
+    "hotkey_1": "F1",
+    "hotkey_2": "F2",
+    "hotkey_3": "F3",
+    "hotkey_4": "F4"
+  },
+  "scan_area": {
+    "x": 0.7317708333333334,
+    "y": 0.28344895936570863,
+    "w": 0.03854166666666667,
+    "h": 0.3855302279484638
+  },
+  "bar_colors": null,
+  "welcome_done": true,
+  "show_scan_outline": true,
+  "show_overlay_arrows": false,
+  "show_fps_overlay": false,
+  "auto_minimize": false,
+  "auto_focus_roblox": true,
+  "always_on_top": true,
+  "collect_hold_t": true,
+  "drop_fish": false,
+  "worm_bait": true,
+  "webhook_enabled": true,
+  "webhook_url": "https://discord.com/api/webhooks/1564043134760132670/fL8u24I6bylNH-jT9rJPwq2L-7j5Cy18BS16qe63FWD445lcUk2BbIIi1-jHp6QHE30V",
+  "webhook_fail": true,
+  "webhook_dc": true,
+  "webhook_user": "1538259240580554905",
+  "name_read": true,
+  "name_area": {
+    "x": 0.26666666666666666,
+    "y": 0.08424182358771061,
+    "w": 0.4973958333333333,
+    "h": 0.5252725470763132
+  },
+  "t_visual": true,
+  "t_ignore": [
+    {
+      "x": 0.5171875,
+      "y": 0.5094152626362736,
+      "w": 0.09791666666666667,
+      "h": 0.05946481665014866
+    }
+  ],
+  "t_area": {
+    "x": 0.26614583333333336,
+    "y": 0.10109018830525272,
+    "w": 0.5072916666666667,
+    "h": 0.46778989098116946
+  },
+  "fish_colors": [
+    {
+      "name": "Ore",
+      "color": "Red"
+    },
+    {
+      "name": "Refinement Guard",
+      "color": "Black"
+    }
+  ],
+  "move_enabled": true,
+  "move": {
+    "w": {
+      "on": false,
+      "sec": 0.5
+    },
+    "a": {
+      "on": false,
+      "sec": 0.1
+    },
+    "s": {
+      "on": true,
+      "sec": 0.1
+    },
+    "d": {
+      "on": true,
+      "sec": 0.1
+    }
+  },
+  "mode": "main",
+  "quest": {
+    "level": 105,
+    "clicks": {
+      "quest_dialogue": 12,
+      "quest_lvl60": 3,
+      "quest_accept": 3,
+      "quest_complete": 2,
+      "quest_exit": 4
+    },
+    "click_delay_sec": 0.1,
+    "step_delay_sec": 0.2,
+    "hold_t_sec": 7.5,
+    "quest_delay_sec": 1.0,
+    "out": {
+      "w": {
+        "on": true,
+        "sec": 0.8
+      },
+      "a": {
+        "on": false,
+        "sec": 1.0
+      },
+      "s": {
+        "on": false,
+        "sec": 1.0
+      },
+      "d": {
+        "on": false,
+        "sec": 1.0
+      }
+    },
+    "back": {
+      "w": {
+        "on": false,
+        "sec": 1.0
+      },
+      "a": {
+        "on": false,
+        "sec": 1.0
+      },
+      "s": {
+        "on": true,
+        "sec": 0.8
+      },
+      "d": {
+        "on": false,
+        "sec": 1.0
+      }
+    }
+  },
+  "quest_levels": {
+    "45": {
+      "level": 45,
+      "clicks": {
+        "quest_dialogue": 6,
+        "quest_lvl60": 1,
+        "quest_accept": 1,
+        "quest_complete": 1,
+        "quest_exit": 6
+      },
+      "click_delay_sec": 0.1,
+      "step_delay_sec": 0.5,
+      "hold_t_sec": 2.0,
+      "quest_delay_sec": 2.0,
+      "out": {
+        "w": {
+          "on": false,
+          "sec": 1.1
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": false,
+          "sec": 1.0
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "back": {
+        "w": {
+          "on": false,
+          "sec": 1.0
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": false,
+          "sec": 1.1
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "points": {
+        "quest_dialogue": {
+          "x": 0.4979166666666667,
+          "y": 0.8711595639246779
+        },
+        "quest_accept": {
+          "x": 0.6619791666666667,
+          "y": 0.8622398414271556
+        },
+        "quest_complete": {
+          "x": 0.6510416666666666,
+          "y": 0.8414271555996036
+        },
+        "quest_exit": {
+          "x": 0.5010416666666667,
+          "y": 0.8741328047571854
+        }
+      }
+    },
+    "60": {
+      "level": 60,
+      "clicks": {
+        "quest_dialogue": 5,
+        "quest_lvl60": 3,
+        "quest_accept": 3,
+        "quest_complete": 3,
+        "quest_exit": 2
+      },
+      "click_delay_sec": 0.1,
+      "step_delay_sec": 0.2,
+      "hold_t_sec": 0.0,
+      "quest_delay_sec": 1.0,
+      "out": {
+        "w": {
+          "on": false,
+          "sec": 0.8
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": false,
+          "sec": 1.0
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "back": {
+        "w": {
+          "on": false,
+          "sec": 1.0
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": false,
+          "sec": 0.8
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "points": {
+        "quest_dialogue": {
+          "x": 0.49947916666666664,
+          "y": 0.8751238850346879
+        },
+        "quest_lvl60": {
+          "x": 0.40989583333333335,
+          "y": 0.6551040634291377
+        },
+        "quest_accept": {
+          "x": 0.6494791666666667,
+          "y": 0.8275520317145689
+        },
+        "quest_complete": {
+          "x": 0.6588541666666666,
+          "y": 0.8384539147670962
+        },
+        "quest_exit": {
+          "x": 0.6557291666666667,
+          "y": 0.8414271555996036
+        }
+      }
+    },
+    "105": {
+      "level": 105,
+      "clicks": {
+        "quest_dialogue": 12,
+        "quest_lvl60": 3,
+        "quest_accept": 3,
+        "quest_complete": 2,
+        "quest_exit": 4
+      },
+      "click_delay_sec": 0.1,
+      "step_delay_sec": 0.2,
+      "hold_t_sec": 7.5,
+      "quest_delay_sec": 1.0,
+      "out": {
+        "w": {
+          "on": true,
+          "sec": 0.8
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": false,
+          "sec": 1.0
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "back": {
+        "w": {
+          "on": false,
+          "sec": 1.0
+        },
+        "a": {
+          "on": false,
+          "sec": 1.0
+        },
+        "s": {
+          "on": true,
+          "sec": 0.8
+        },
+        "d": {
+          "on": false,
+          "sec": 1.0
+        }
+      },
+      "points": {
+        "quest_dialogue": {
+          "x": 0.5072916666666667,
+          "y": 0.8513379583746283
+        },
+        "quest_accept": {
+          "x": 0.65625,
+          "y": 0.8404360753221011
+        },
+        "quest_complete": {
+          "x": 0.6541666666666667,
+          "y": 0.8404360753221011
+        },
+        "quest_exit": {
+          "x": 0.5041666666666667,
+          "y": 0.8572844400396432
+        }
+      }
+    }
+  },
+  "free_mouse": true,
+  "rod_key": "4",
+  "points": {
+    "collect": {
+      "x": 0.51015625,
+      "y": 0.4027777777777778
+    },
+    "cast": {
+      "x": 0.5135416666666667,
+      "y": 0.5520317145688801
+    },
+    "quest_dialogue": {
+      "x": 0.5072916666666667,
+      "y": 0.8513379583746283
+    },
+    "quest_accept": {
+      "x": 0.65625,
+      "y": 0.8404360753221011
+    },
+    "quest_complete": {
+      "x": 0.6541666666666667,
+      "y": 0.8404360753221011
+    },
+    "quest_exit": {
+      "x": 0.5041666666666667,
+      "y": 0.8572844400396432
+    }
+  },
+  "config_rev": 9,
+  "advanced": {
+    "task_fps": 30.0,
+    "accel_hold": 900.0,
+    "accel_release": 900.0,
+    "ball_ref_px": 24.0,
+    "latency_s": 0.1,
+    "hysteresis_px": 6.0,
+    "aim_offset": 0.0,
+    "zone_hold_s": 2.0,
+    "lost_timeout_s": 1.5,
+    "green_boost": 1.0,
+    "yellow_boost": 0.8,
+    "white_boost": 1.0,
+    "start_confirm_frames": 4.0,
+    "cast_settle_sec": 0.08,
+    "cast_after_sec": 0.25,
+    "wait_minigame_start_sec": 20.0,
+    "wait_minigame_end_sec": 20.0,
+    "poll_sec": 0.04,
+    "after_minigame_sec": 1.0,
+    "collect_hold_sec": 3.0,
+    "after_collect_sec": 0.1,
+    "key_hold_sec": 0.1,
+    "visual_read_sec": 0.2,
+    "visual_miss_sec": 0.5,
+    "visual_hold_sec": 3.0,
+    "visual_release_sec": 0.1,
+    "visual_gone_sec": 1.0,
+    "visual_full_sec": 2.5,
+    "visual_swing_sec": 1.0,
+    "visual_start_sec": 3.0,
+    "visual_max_sec": 15.0,
+    "mouse_nudge_mid_sec": 0.01,
+    "mouse_nudge_settle_sec": 0.04,
+    "mouse_click_hold_sec": 0.04,
+    "name_read_delay_sec": 1.0
+  }
+}
